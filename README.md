@@ -1,6 +1,6 @@
 # MSAndrea
 
-<img src="Logo/MS_Andrea_logo_col.jpg" align="left" width="175px"/>
+<img src="Logo/MS_Andrea_logo_col.png" align="left" width="175px"/>
 
 
 **MSAndrea** is an open modification search engine that is designed to directly identify peptide modifications on the PSM level. 
