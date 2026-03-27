@@ -24,7 +24,7 @@
   ```
 
 ### Installation on macOS
-- Download MS Andrea for macOS here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/blob/main/Releases/Latest/macOS/MSAndrea_release_masOS.zip)
+- Download MS Andrea for macOS here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/blob/main/Releases/Latest/macOS/MSAndrea_release_macOS.zip)
 - Extract the MS Andrea archive and navigate to the extracted folder in a terminal.
 - MS Andrea for macOS can be used the same way as on Windows platforms.
 - Run MS Andrea by calling:
