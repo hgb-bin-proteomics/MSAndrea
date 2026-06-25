@@ -31,6 +31,9 @@
   ```bash
   ./MSAndrea -s spectrumFile -d proteinDatabase -e settings.xml [-o outputfilename]
   ```
+## Limitations 
+Currently, MS Andrea does does not provide quantification or support for the associated labeling strategies (TMT, iTRAQ, SILAC)
+
 ## Getting Help
 If something is not working or if you need help with MS Andrea, please contact us!
 
