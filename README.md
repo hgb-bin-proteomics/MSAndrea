@@ -32,7 +32,7 @@
   ./MSAndrea -s spectrumFile -d proteinDatabase -e settings.xml [-o outputfilename]
   ```
 ## Limitations 
-Currently, MS Andrea does does not provide quantification or support for the associated labeling strategies (TMT, iTRAQ, SILAC)
+Currently, MS Andrea does not provide quantification or support for the associated labeling strategies (TMT, iTRAQ, SILAC)
 
 ## Getting Help
 If something is not working or if you need help with MS Andrea, please contact us!
@@ -50,7 +50,8 @@ If you are using MS Andrea please cite the following preprint:
 Beyond Delta Masses: MS Andrea Directly Resolves Combinatorial Peptide Modifications in Open Searches
 Louise Marie Buur, Stephan Winkler, Viktoria Dorfer
 bioRxiv 2026.03.27.714851 
-doi: https://doi.org/10.64898/2026.03.27.714851
+doi: https://doi.org/10.64898/2026.03.27.714851¨
+url: https://www.biorxiv.org/content/10.64898/2026.03.27.714851v2 
 ```
 
 ## Contact 
