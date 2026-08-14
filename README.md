@@ -50,8 +50,8 @@ If you are using MS Andrea please cite the following preprint:
 Beyond Delta Masses: MS Andrea Directly Resolves Combinatorial Peptide Modifications in Open Searches
 Louise Marie Buur, Stephan Winkler, Viktoria Dorfer
 bioRxiv 2026.03.27.714851 
-doi: https://doi.org/10.64898/2026.03.27.714851¨
-url: https://www.biorxiv.org/content/10.64898/2026.03.27.714851v2 
+doi: https://doi.org/10.64898/2026.03.27.714851
+url: https://www.biorxiv.org/content/10.64898/2026.03.27.714851v3  
 ```
 
 ## Contact 
