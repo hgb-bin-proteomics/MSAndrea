@@ -44,14 +44,13 @@ We are usually fast to respond on GitHub and other users might be able to help t
 Alternatively, you can contact us by e-mail (see below). 
 
 ## Citing 
-If you are using MS Andrea please cite the following preprint:
+If you are using MS Andrea please cite:
 
 ```
-Beyond Delta Masses: MS Andrea Directly Resolves Combinatorial Peptide Modifications in Open Searches
-Louise Marie Buur, Stephan Winkler, Viktoria Dorfer
-bioRxiv 2026.03.27.714851 
-doi: https://doi.org/10.64898/2026.03.27.714851
-url: https://www.biorxiv.org/content/10.64898/2026.03.27.714851v4  
+Beyond Delta Masses: MS Andrea Directly Resolves Combinatorial Peptide Modifications in Open Searches 
+Louise M. Buur, Stephan Winkler, Viktoria Dorfer 
+Journal of Proteome Research. 2026
+DOI: https://doi.org/10.1021/acs.jproteome.6c00296
 ```
 
 ## Contact 
