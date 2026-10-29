@@ -2,7 +2,7 @@
 <img src="Logo/MS_Andrea_logo_col.png" style="padding: 30px;" align="center" width="500px"/>
 
 
-**MSAndrea** is an open modification search engine that is designed to directly identify peptide modifications on the PSM level. MS Andrea uses a sequence tag-based approach for filtering peptide candidates before score based filtering and final scoring using the [MS Amanda](https://github.com/hgb-bin-proteomics/MSAmanda) scoring function. 
+**MS Andrea** is an open modification search engine that is designed to directly identify peptide modifications on the PSM level. MS Andrea uses a sequence tag-based approach for filtering peptide candidates before score based filtering and final scoring using the [MS Amanda](https://github.com/hgb-bin-proteomics/MSAmanda) scoring function. 
 
 ## Installation and usage
 ### Installation on Windows
