@@ -10,7 +10,7 @@
 
 ### Installation on Windows
 
-- Download MS Andrea for Windows here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/tree/main/Releases/Latest/Windows/MSAndrea_release_Windows.zip)
+- Download MS Andrea for Windows here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/raw/main/Releases/Latest/Windows/MSAndrea_release_Windows.zip)
 - Extract the downloaded `.zip` file.
 - Open a commandline and navigate to the extracted MS Andrea folder.
 - Run MS Andrea by calling:
@@ -20,7 +20,7 @@
 
 ### Installation on Linux 
 
-- Download MS Andrea for Linux here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/blob/main/Releases/Latest/Linux/MSAndrea_release_Linux.zip)
+- Download MS Andrea for Linux here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/raw/main/Releases/Latest/Linux/MSAndrea_release_Linux.zip)
 - Extract the MS Andrea archive and navigate to the extracted folder in a terminal.
 - MS Andrea for Linux can be used the same way as on Windows platforms.
 - Run MS Andrea by calling:
@@ -30,7 +30,7 @@
 
 ### Installation on macOS
 
-- Download MS Andrea for macOS here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/blob/main/Releases/Latest/macOS/MSAndrea_release_macOS.zip)
+- Download MS Andrea for macOS here: [**download**](https://github.com/hgb-bin-proteomics/MSAndrea/raw/main/Releases/Latest/macOS/MSAndrea_release_macOS.zip)
 - Extract the MS Andrea archive and navigate to the extracted folder in a terminal.
 - MS Andrea for macOS can be used the same way as on Windows platforms.
 - Run MS Andrea by calling:
